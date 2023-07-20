@@ -1,2 +1,2 @@
-# Computer-Vision-Digital-Image-Processing-with-Opencv
-I have focused on image processing using opencv C++/Python .
+#Digital-Image-Processing-with-Opencv
+I have focused on image processing algorithms using opencv C++/Python .
