@@ -1,0 +1,40 @@
+﻿  Source.cpp
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(47,35): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(60,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(61,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(62,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(62,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(65,35): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(78,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(79,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(80,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(80,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(83,35): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(99,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(99,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(99,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(100,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(100,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(100,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(101,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(101,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(101,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(107,35): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Sayyid Mogaka\source\repos\Lab_5\Lab_5\Source.cpp(112,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab_5.vcxproj -> C:\Users\Sayyid Mogaka\source\repos\Lab_5\x64\Debug\Lab_5.exe

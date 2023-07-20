@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(22,16): warning C4244: 'return': conversion from 'int16_t' to 'uchar', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(42,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(43,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(44,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(45,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(48,90): warning C4244: 'argument': conversion from 'float' to 'schar', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(49,90): warning C4244: 'argument': conversion from 'float' to 'schar', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(50,90): warning C4244: 'argument': conversion from 'float' to 'schar', possible loss of data
+C:\Users\Sayyid Mogaka\source\repos\Lab_4\Lab_4\Source.cpp(51,90): warning C4244: 'argument': conversion from 'float' to 'schar', possible loss of data
+  Lab_4.vcxproj -> C:\Users\Sayyid Mogaka\source\repos\Lab_4\x64\Debug\Lab_4.exe
